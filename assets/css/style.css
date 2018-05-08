@@ -1,0 +1,40 @@
+h1 {
+    text-decoration: underline;
+    font-size: 45px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h2 {
+    text-decoration: strong;
+    font-size: 25px;
+    font-family: sans-serif;
+    text-align: center;
+    }
+
+h3 {
+    text-decoration: initial;
+    font-size: 25px;
+    font-family: sans-serif;
+    text-align: center;
+    }
+
+#game{
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: center;
+}
+.list-group{
+    border-style: solid;
+    border-width: 2.5px;
+    border: 100px;
+}
+
+.container{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding-bottom: 5px;
+}
